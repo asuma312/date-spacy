@@ -1,0 +1,5 @@
+/.idea
+date_spacy.egg-info/PKG-INFO
+/date_spacy.egg-info
+/dist
+/date_spacy/__pycache__
